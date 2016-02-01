@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+Hello 
+Bello
+=======
+<<<<<<< HEAD
 12345
 =======
 Hello 
 >>>>>>> feature/B2
+>>>>>>> develop
