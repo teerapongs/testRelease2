@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+Hello 
+Bello
+
+MY ALONE
+=======
+<<<<<<< HEAD
+12345
+=======
+Hello 
+>>>>>>> feature/B2
+Tongs
+>>>>>>> develop
+Bello2
